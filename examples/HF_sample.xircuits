@@ -1,0 +1,1241 @@
+{
+    "id": "fd584875-29a4-4a53-a8f8-c9c04e7097d3",
+    "offsetX": 76.07173469387754,
+    "offsetY": 65.82331632653062,
+    "zoom": 94,
+    "gridSize": 0,
+    "layers": [
+        {
+            "id": "12935959-e5f4-45e5-9f72-07854dff3b0f",
+            "type": "diagram-links",
+            "isSvg": true,
+            "transformed": true,
+            "models": {
+                "4593e3e5-e9fc-4476-982c-3a566405adbb": {
+                    "id": "4593e3e5-e9fc-4476-982c-3a566405adbb",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "16b00e9f-a301-496e-8eb8-27b7ebf02a6c",
+                    "sourcePort": "0a3ea6ca-a8a5-4ffb-aac0-a22b5337bcd6",
+                    "target": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "targetPort": "7cf7cc0c-6b29-4aec-bb36-70d3917af99f",
+                    "points": [
+                        {
+                            "id": "a7aadcd3-8373-4272-938c-7cfbe7cd7f4d",
+                            "type": "point",
+                            "x": 82.74998433704849,
+                            "y": 90.10000255218651
+                        },
+                        {
+                            "id": "86565ca5-8812-4fe6-9ea9-7a25591657f3",
+                            "type": "point",
+                            "x": 210.88751602338493,
+                            "y": 138.10000040134656
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "f49bea1f-173e-49c1-8a97-8bba503239f6": {
+                    "id": "f49bea1f-173e-49c1-8a97-8bba503239f6",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "sourcePort": "fe4bc961-6626-42cc-8c2c-6400839a977d",
+                    "target": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "targetPort": "64336f7c-98d3-4311-95f1-bccef66641b7",
+                    "points": [
+                        {
+                            "id": "c2e53df6-32f2-47e1-a3e4-2a4596e05e8c",
+                            "type": "point",
+                            "x": 373.0374729091895,
+                            "y": 138.10000040134656
+                        },
+                        {
+                            "id": "018dd152-84ee-4a67-8590-d023e88a2230",
+                            "type": "point",
+                            "x": 541.900037929487,
+                            "y": 141.10000819306867
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "811bccb1-487c-4a0f-9de4-c3f126563bcb": {
+                    "id": "811bccb1-487c-4a0f-9de4-c3f126563bcb",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "sourcePort": "f6807f28-d90d-4ec2-a3c6-1af5a856eea5",
+                    "target": "d91996dd-2430-4f92-a161-321fe5939085",
+                    "targetPort": "6adac87c-4c11-4be5-96f6-0aaf7610915a",
+                    "points": [
+                        {
+                            "id": "f04c5254-9505-4ec8-9aa3-605bcf8e6771",
+                            "type": "point",
+                            "x": 655.7374870235694,
+                            "y": 141.10000819306867
+                        },
+                        {
+                            "id": "56d3b317-f104-4ce2-b1e8-cb3ce7d7c848",
+                            "type": "point",
+                            "x": 726.8999989708766,
+                            "y": 155.0999928125339
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "a7ad7051-bef2-4844-a4ff-51c69c035883": {
+                    "id": "a7ad7051-bef2-4844-a4ff-51c69c035883",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "sourcePort": "950ef539-7e12-4462-ac37-09cfa7bfa109",
+                    "target": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "targetPort": "b6d169a8-a4a1-4745-85c3-4cb092d560b4",
+                    "points": [
+                        {
+                            "id": "c38a30df-e351-47e0-9e9c-e66a3f2d582d",
+                            "type": "point",
+                            "x": 373.0374729091895,
+                            "y": 181.30000221941503
+                        },
+                        {
+                            "id": "d2ba29a3-1170-44cb-aba2-8d527c2b1632",
+                            "type": "point",
+                            "x": 541.900037929487,
+                            "y": 184.29999073474136
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "6d4b49a3-dfa7-4e79-9d93-146fc8b01ef5": {
+                    "id": "6d4b49a3-dfa7-4e79-9d93-146fc8b01ef5",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "d91996dd-2430-4f92-a161-321fe5939085",
+                    "sourcePort": "fccd8c96-29a8-4f1d-b2c5-5898e77f8b9e",
+                    "target": "31530582-22ae-4634-a9eb-3242cf2006de",
+                    "targetPort": "d9e50f79-4556-44ec-8f14-b260e08a775f",
+                    "points": [
+                        {
+                            "id": "43fa4950-22d4-4e36-bfcd-4bb6e9785684",
+                            "type": "point",
+                            "x": 894.9125124765283,
+                            "y": 176.70000995432247
+                        },
+                        {
+                            "id": "7cb35652-8dc9-4682-b01b-d35346445f35",
+                            "type": "point",
+                            "x": 951.600069412914,
+                            "y": 201.88751754313512
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "9f553285-158d-46f4-805b-91c4eee46b06": {
+                    "id": "9f553285-158d-46f4-805b-91c4eee46b06",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "d91996dd-2430-4f92-a161-321fe5939085",
+                    "sourcePort": "ba83a735-01a8-4ee5-918b-769fd32c39f6",
+                    "target": "31530582-22ae-4634-a9eb-3242cf2006de",
+                    "targetPort": "30c26a53-4b79-48c4-9c1d-4a2b34acb784",
+                    "points": [
+                        {
+                            "id": "5bb8ad9f-0ef3-445a-b494-21bae77fbad5",
+                            "type": "point",
+                            "x": 894.9125124765283,
+                            "y": 155.0999928125339
+                        },
+                        {
+                            "id": "751f8994-e345-4a81-b4e4-c38d991ea7a1",
+                            "type": "point",
+                            "x": 951.600069412914,
+                            "y": 180.28750040134656
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "59f4af07-9cee-4179-9e33-b4c73176c5bd": {
+                    "id": "59f4af07-9cee-4179-9e33-b4c73176c5bd",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "31530582-22ae-4634-a9eb-3242cf2006de",
+                    "sourcePort": "5a14dd16-ae7c-447f-a878-49a57c60b32b",
+                    "target": "f35bac0c-38ac-4212-8ed1-14e479bf5f86",
+                    "targetPort": "9b69ba93-fde1-4d01-ac39-89092bde02a7",
+                    "points": [
+                        {
+                            "id": "ffd07437-269f-4af9-a34f-3e085868bf80",
+                            "type": "point",
+                            "x": 1055.7626153272597,
+                            "y": 180.28750040134656
+                        },
+                        {
+                            "id": "3f5e920d-531b-4224-a026-a8e5317eee94",
+                            "type": "point",
+                            "x": 1092.9604263728047,
+                            "y": 243.61064409660924
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "cb443655-772b-40cc-8e73-cc7d50e90f15": {
+                    "id": "cb443655-772b-40cc-8e73-cc7d50e90f15",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "006d9259-e47e-4b2e-b016-c0cc336c9dd3",
+                    "sourcePort": "590783cc-567c-4b25-ac02-9e2cb6e772c4",
+                    "target": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "targetPort": "a5257db5-ee8e-4f71-a1cd-3b5856271778",
+                    "points": [
+                        {
+                            "id": "4275d69a-f8e9-4c28-9917-fd76e46d5eb6",
+                            "type": "point",
+                            "x": 124.78752615262363,
+                            "y": 182.10000510884532
+                        },
+                        {
+                            "id": "568326ba-4616-4c09-9e83-68f98922d9c4",
+                            "type": "point",
+                            "x": 210.88751602338493,
+                            "y": 159.70001754313512
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "283aef45-3159-4ee3-94bb-fd1ef5f919e6": {
+                    "id": "283aef45-3159-4ee3-94bb-fd1ef5f919e6",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "14e1ed83-2b9f-401e-adc5-e3347a39c05a",
+                    "sourcePort": "7bb424f2-adf3-4fb8-9905-96b3c0fde8c6",
+                    "target": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "targetPort": "9d63cccb-7b50-42bc-924c-5ce7a366633a",
+                    "points": [
+                        {
+                            "id": "2f171c4d-4f40-4eb4-a788-89d04710fb68",
+                            "type": "point",
+                            "x": 131.48747273874554,
+                            "y": 254.10002268080189
+                        },
+                        {
+                            "id": "405155f2-d0dd-4760-a7d7-d552e2d62e00",
+                            "type": "point",
+                            "x": 210.88751602338493,
+                            "y": 181.30000221941503
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "fc3584ef-c590-40a3-8294-b2388850a03c": {
+                    "id": "fc3584ef-c590-40a3-8294-b2388850a03c",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "6c5da7f0-545a-461a-bf1b-ae13b57809f7",
+                    "sourcePort": "49f3d469-a9ff-49d5-92b6-3632e4723289",
+                    "target": "d91996dd-2430-4f92-a161-321fe5939085",
+                    "targetPort": "74e8ce35-f848-411b-95d8-497cd1428629",
+                    "points": [
+                        {
+                            "id": "ee0d43c6-182b-4786-a559-8038cc4ad01f",
+                            "type": "point",
+                            "x": 715.4875407539862,
+                            "y": 311.81252891417955
+                        },
+                        {
+                            "id": "497d9566-37e3-4257-9418-381299168bf9",
+                            "type": "point",
+                            "x": 726.8999989708766,
+                            "y": 176.70000995432247
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "662c5aec-26cb-4c20-a97d-6b39aa067e75": {
+                    "id": "662c5aec-26cb-4c20-a97d-6b39aa067e75",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "b971a760-d9ba-4c1f-9c85-29d03a6eb183",
+                    "sourcePort": "43add7fb-af24-4e43-95a7-0dbda05e95f3",
+                    "target": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "targetPort": "a1c87633-1685-4ac9-9894-a1f73ba5aba2",
+                    "points": [
+                        {
+                            "id": "68c1f71b-69f4-4ecd-b126-d173a509a482",
+                            "type": "point",
+                            "x": 482.6624968930839,
+                            "y": 74.10000969459841
+                        },
+                        {
+                            "id": "ee61a37c-eab3-4aa5-84c0-1d99fc0f7714",
+                            "type": "point",
+                            "x": 541.900037929487,
+                            "y": 162.70000605846144
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "25e808d9-e342-4512-b3f7-9d1dfac7570e": {
+                    "id": "25e808d9-e342-4512-b3f7-9d1dfac7570e",
+                    "type": "parameter-link",
+                    "selected": false,
+                    "source": "a1d22eda-8a2e-448c-899a-72e5279c12ad",
+                    "sourcePort": "49dd6f87-847c-4aee-b0ec-3bbe7ca4c64d",
+                    "target": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "targetPort": "f13bdcfb-b221-4671-8684-547dc2ee59c4",
+                    "points": [
+                        {
+                            "id": "53756fca-de66-4b8e-b662-65cb2e2273c3",
+                            "type": "point",
+                            "x": 434.062474556814,
+                            "y": 354.4999977472912
+                        },
+                        {
+                            "id": "4e75599a-8070-4947-b892-b557d4889951",
+                            "type": "point",
+                            "x": 541.900037929487,
+                            "y": 227.49999255280983
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                },
+                "1d6c5163-8f34-4f39-aae2-4661de5c2b95": {
+                    "id": "1d6c5163-8f34-4f39-aae2-4661de5c2b95",
+                    "type": "triangle-link",
+                    "selected": false,
+                    "source": "d16c9cf6-dad4-4c51-acdf-32efc515f33e",
+                    "sourcePort": "8d241b82-768d-4dfd-93a1-b86a6b58c62f",
+                    "target": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "targetPort": "90019090-baab-4180-abed-47edad2def94",
+                    "points": [
+                        {
+                            "id": "723163f1-23b0-4f53-a4e0-0d1d105917c9",
+                            "type": "point",
+                            "x": 339.0875113483517,
+                            "y": 275.77500978387855
+                        },
+                        {
+                            "id": "d798f09e-ae15-4d1d-92ce-6ed32617fdfa",
+                            "type": "point",
+                            "x": 541.900037929487,
+                            "y": 205.9000078765299
+                        }
+                    ],
+                    "labels": [],
+                    "width": 3,
+                    "color": "gray",
+                    "curvyness": 50,
+                    "selectedColor": "rgb(0,192,255)"
+                }
+            }
+        },
+        {
+            "id": "3146c034-4fb7-425c-b2ab-5d788dcb64f7",
+            "type": "diagram-nodes",
+            "isSvg": false,
+            "transformed": true,
+            "models": {
+                "16b00e9f-a301-496e-8eb8-27b7ebf02a6c": {
+                    "id": "16b00e9f-a301-496e-8eb8-27b7ebf02a6c",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "Start",
+                        "borderColor": "rgb(0,192,255)"
+                    },
+                    "x": 15,
+                    "y": 53,
+                    "ports": [
+                        {
+                            "id": "0a3ea6ca-a8a5-4ffb-aac0-a22b5337bcd6",
+                            "type": "default",
+                            "extras": {},
+                            "x": 72.44997706477456,
+                            "y": 79.79999527991258,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "16b00e9f-a301-496e-8eb8-27b7ebf02a6c",
+                            "links": [
+                                "4593e3e5-e9fc-4476-982c-3a566405adbb"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "Start",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "0a3ea6ca-a8a5-4ffb-aac0-a22b5337bcd6"
+                    ]
+                },
+                "f35bac0c-38ac-4212-8ed1-14e479bf5f86": {
+                    "id": "f35bac0c-38ac-4212-8ed1-14e479bf5f86",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "Finish"
+                    },
+                    "x": 1081.872340425532,
+                    "y": 206.51063829787233,
+                    "ports": [
+                        {
+                            "id": "9b69ba93-fde1-4d01-ac39-89092bde02a7",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1082.6604444642094,
+                            "y": 233.31063682433572,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "f35bac0c-38ac-4212-8ed1-14e479bf5f86",
+                            "links": [
+                                "59f4af07-9cee-4179-9e33-b4c73176c5bd"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "f7a252ff-c0b0-417b-99f8-3f8eaba2060e",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1082.6604444642094,
+                            "y": 254.91062150061592,
+                            "name": "parameter-dynalist-outputs",
+                            "alignment": "left",
+                            "parentNode": "f35bac0c-38ac-4212-8ed1-14e479bf5f86",
+                            "links": [],
+                            "in": true,
+                            "label": "outputs",
+                            "varName": "outputs",
+                            "portType": "",
+                            "dataType": "dynalist",
+                            "dynaPortOrder": 0,
+                            "dynaPortRef": {
+                                "previous": null,
+                                "next": null
+                            }
+                        }
+                    ],
+                    "name": "Finish",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [
+                        "9b69ba93-fde1-4d01-ac39-89092bde02a7",
+                        "f7a252ff-c0b0-417b-99f8-3f8eaba2060e"
+                    ],
+                    "portsOutOrder": []
+                },
+                "8acf271f-cb98-41b3-ae05-ca88b74ae8c9": {
+                    "id": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_hfagent/hf_agents_components.py",
+                        "description": null,
+                        "lineNo": [
+                            {
+                                "lineno": 12,
+                                "end_lineno": 44
+                            }
+                        ],
+                        "finishNodeId": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                        "isBranchNode": true
+                    },
+                    "x": 199.79998779296875,
+                    "y": 101,
+                    "ports": [
+                        {
+                            "id": "7cf7cc0c-6b29-4aec-bb36-70d3917af99f",
+                            "type": "default",
+                            "extras": {},
+                            "x": 200.587508751111,
+                            "y": 127.80000631818552,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [
+                                "4593e3e5-e9fc-4476-982c-3a566405adbb"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "a5257db5-ee8e-4f71-a1cd-3b5856271778",
+                            "type": "default",
+                            "extras": {},
+                            "x": 200.587508751111,
+                            "y": 149.40002345997408,
+                            "name": "parameter-string-name",
+                            "alignment": "left",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [
+                                "cb443655-772b-40cc-8e73-cc7d50e90f15"
+                            ],
+                            "in": true,
+                            "label": "★name",
+                            "varName": "★name",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "9d63cccb-7b50-42bc-924c-5ce7a366633a",
+                            "type": "default",
+                            "extras": {},
+                            "x": 200.587508751111,
+                            "y": 171.000008136254,
+                            "name": "parameter-string-description",
+                            "alignment": "left",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [
+                                "283aef45-3159-4ee3-94bb-fd1ef5f919e6"
+                            ],
+                            "in": true,
+                            "label": "★description",
+                            "varName": "★description",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "3b0f7331-12b4-4af7-a178-91699822907c",
+                            "type": "default",
+                            "extras": {},
+                            "x": 200.587508751111,
+                            "y": 192.5999928125339,
+                            "name": "parameter-string-input_ref",
+                            "alignment": "left",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [],
+                            "in": true,
+                            "label": "input_ref",
+                            "varName": "input_ref",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "fe4bc961-6626-42cc-8c2c-6400839a977d",
+                            "type": "default",
+                            "extras": {},
+                            "x": 362.73746563691554,
+                            "y": 127.80000631818552,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [
+                                "f49bea1f-173e-49c1-8a97-8bba503239f6"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "ecbcf569-3f47-46ec-a632-6efc20fb9724",
+                            "type": "default",
+                            "extras": {},
+                            "x": 362.73746563691554,
+                            "y": 149.40002345997408,
+                            "name": "out-flow-run_tool",
+                            "alignment": "right",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [],
+                            "in": false,
+                            "label": "run_tool ▶",
+                            "varName": "run_tool ▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "950ef539-7e12-4462-ac37-09cfa7bfa109",
+                            "type": "default",
+                            "extras": {},
+                            "x": 362.73746563691554,
+                            "y": 171.000008136254,
+                            "name": "parameter-out-Tool-tool_ref",
+                            "alignment": "right",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [
+                                "a7ad7051-bef2-4844-a4ff-51c69c035883"
+                            ],
+                            "in": false,
+                            "label": "tool_ref",
+                            "varName": "tool_ref",
+                            "portType": "",
+                            "dataType": "Tool"
+                        },
+                        {
+                            "id": "eed0bc67-efd9-4257-b873-58dcef04f000",
+                            "type": "default",
+                            "extras": {},
+                            "x": 362.73746563691554,
+                            "y": 192.5999928125339,
+                            "name": "parameter-out-string-output_ref",
+                            "alignment": "right",
+                            "parentNode": "8acf271f-cb98-41b3-ae05-ca88b74ae8c9",
+                            "links": [],
+                            "in": false,
+                            "label": "output_ref",
+                            "varName": "output_ref",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "HfAgentMakeTool",
+                    "color": "rgb(102,102,102)",
+                    "portsInOrder": [
+                        "7cf7cc0c-6b29-4aec-bb36-70d3917af99f",
+                        "a5257db5-ee8e-4f71-a1cd-3b5856271778",
+                        "9d63cccb-7b50-42bc-924c-5ce7a366633a",
+                        "3b0f7331-12b4-4af7-a178-91699822907c"
+                    ],
+                    "portsOutOrder": [
+                        "fe4bc961-6626-42cc-8c2c-6400839a977d",
+                        "ecbcf569-3f47-46ec-a632-6efc20fb9724",
+                        "950ef539-7e12-4462-ac37-09cfa7bfa109",
+                        "eed0bc67-efd9-4257-b873-58dcef04f000"
+                    ]
+                },
+                "2a63b808-daa1-4e8e-859c-caf27f471616": {
+                    "id": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_hfagent/hf_agents_components.py",
+                        "description": null,
+                        "lineNo": [
+                            {
+                                "lineno": 49,
+                                "end_lineno": 75
+                            }
+                        ],
+                        "borderColor": "rgb(0,192,255)"
+                    },
+                    "x": 530.7999877929688,
+                    "y": 104,
+                    "ports": [
+                        {
+                            "id": "64336f7c-98d3-4311-95f1-bccef66641b7",
+                            "type": "default",
+                            "extras": {},
+                            "x": 531.6000560208917,
+                            "y": 130.8000141099076,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "f49bea1f-173e-49c1-8a97-8bba503239f6"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "a1c87633-1685-4ac9-9894-a1f73ba5aba2",
+                            "type": "default",
+                            "extras": {},
+                            "x": 531.6000560208917,
+                            "y": 152.3999987861875,
+                            "name": "parameter-string-agent_type",
+                            "alignment": "left",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "662c5aec-26cb-4c20-a97d-6b39aa067e75"
+                            ],
+                            "in": true,
+                            "label": "★agent_type",
+                            "varName": "★agent_type",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "b6d169a8-a4a1-4745-85c3-4cb092d560b4",
+                            "type": "default",
+                            "extras": {},
+                            "x": 531.6000560208917,
+                            "y": 173.9999834624674,
+                            "name": "parameter-Tool-tools",
+                            "alignment": "left",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "a7ad7051-bef2-4844-a4ff-51c69c035883"
+                            ],
+                            "in": true,
+                            "label": "tools",
+                            "varName": "tools",
+                            "portType": "",
+                            "dataType": "Tool"
+                        },
+                        {
+                            "id": "90019090-baab-4180-abed-47edad2def94",
+                            "type": "default",
+                            "extras": {},
+                            "x": 531.6000560208917,
+                            "y": 195.600000604256,
+                            "name": "parameter-secret-token",
+                            "alignment": "left",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "1d6c5163-8f34-4f39-aae2-4661de5c2b95"
+                            ],
+                            "in": true,
+                            "label": "token",
+                            "varName": "token",
+                            "portType": "",
+                            "dataType": "secret"
+                        },
+                        {
+                            "id": "f13bdcfb-b221-4671-8684-547dc2ee59c4",
+                            "type": "default",
+                            "extras": {},
+                            "x": 531.6000560208917,
+                            "y": 217.1999852805359,
+                            "name": "parameter-boolean-from_env",
+                            "alignment": "left",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "25e808d9-e342-4512-b3f7-9d1dfac7570e"
+                            ],
+                            "in": true,
+                            "label": "from_env",
+                            "varName": "from_env",
+                            "portType": "",
+                            "dataType": "boolean"
+                        },
+                        {
+                            "id": "f6807f28-d90d-4ec2-a3c6-1af5a856eea5",
+                            "type": "default",
+                            "extras": {},
+                            "x": 645.4375051149741,
+                            "y": 130.8000141099076,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "2a63b808-daa1-4e8e-859c-caf27f471616",
+                            "links": [
+                                "811bccb1-487c-4a0f-9de4-c3f126563bcb"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "HfAgentInit",
+                    "color": "rgb(255,102,0)",
+                    "portsInOrder": [
+                        "64336f7c-98d3-4311-95f1-bccef66641b7",
+                        "a1c87633-1685-4ac9-9894-a1f73ba5aba2",
+                        "b6d169a8-a4a1-4745-85c3-4cb092d560b4",
+                        "90019090-baab-4180-abed-47edad2def94",
+                        "f13bdcfb-b221-4671-8684-547dc2ee59c4"
+                    ],
+                    "portsOutOrder": [
+                        "f6807f28-d90d-4ec2-a3c6-1af5a856eea5"
+                    ]
+                },
+                "d91996dd-2430-4f92-a161-321fe5939085": {
+                    "id": "d91996dd-2430-4f92-a161-321fe5939085",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_hfagent/hf_agents_components.py",
+                        "description": null,
+                        "lineNo": [
+                            {
+                                "lineno": 78,
+                                "end_lineno": 119
+                            }
+                        ]
+                    },
+                    "x": 715.7999877929688,
+                    "y": 118,
+                    "ports": [
+                        {
+                            "id": "6adac87c-4c11-4be5-96f6-0aaf7610915a",
+                            "type": "default",
+                            "extras": {},
+                            "x": 716.6000170622813,
+                            "y": 144.79998554025997,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [
+                                "811bccb1-487c-4a0f-9de4-c3f126563bcb"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "74e8ce35-f848-411b-95d8-497cd1428629",
+                            "type": "default",
+                            "extras": {},
+                            "x": 716.6000170622813,
+                            "y": 166.40000268204855,
+                            "name": "parameter-string-prompt",
+                            "alignment": "left",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [
+                                "fc3584ef-c590-40a3-8294-b2388850a03c"
+                            ],
+                            "in": true,
+                            "label": "★prompt",
+                            "varName": "★prompt",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "87471621-3f37-40df-9f1d-31c735054efa",
+                            "type": "default",
+                            "extras": {},
+                            "x": 716.6000170622813,
+                            "y": 187.99998735832847,
+                            "name": "parameter-any-document",
+                            "alignment": "left",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [],
+                            "in": true,
+                            "label": "document",
+                            "varName": "document",
+                            "portType": "",
+                            "dataType": "any"
+                        },
+                        {
+                            "id": "ba83a735-01a8-4ee5-918b-769fd32c39f6",
+                            "type": "default",
+                            "extras": {},
+                            "x": 884.6125305679329,
+                            "y": 144.79998554025997,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [
+                                "9f553285-158d-46f4-805b-91c4eee46b06"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "fccd8c96-29a8-4f1d-b2c5-5898e77f8b9e",
+                            "type": "default",
+                            "extras": {},
+                            "x": 884.6125305679329,
+                            "y": 166.40000268204855,
+                            "name": "parameter-out-string-response_text",
+                            "alignment": "right",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [
+                                "6d4b49a3-dfa7-4e79-9d93-146fc8b01ef5"
+                            ],
+                            "in": false,
+                            "label": "response_text",
+                            "varName": "response_text",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "01a36011-4fde-4798-900d-02bd25b901c3",
+                            "type": "default",
+                            "extras": {},
+                            "x": 884.6125305679329,
+                            "y": 187.99998735832847,
+                            "name": "parameter-out-string-response_file",
+                            "alignment": "right",
+                            "parentNode": "d91996dd-2430-4f92-a161-321fe5939085",
+                            "links": [],
+                            "in": false,
+                            "label": "response_file",
+                            "varName": "response_file",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "HfAgentRun",
+                    "color": "rgb(51,51,51)",
+                    "portsInOrder": [
+                        "6adac87c-4c11-4be5-96f6-0aaf7610915a",
+                        "74e8ce35-f848-411b-95d8-497cd1428629",
+                        "87471621-3f37-40df-9f1d-31c735054efa"
+                    ],
+                    "portsOutOrder": [
+                        "ba83a735-01a8-4ee5-918b-769fd32c39f6",
+                        "fccd8c96-29a8-4f1d-b2c5-5898e77f8b9e",
+                        "01a36011-4fde-4798-900d-02bd25b901c3"
+                    ]
+                },
+                "31530582-22ae-4634-a9eb-3242cf2006de": {
+                    "id": "31530582-22ae-4634-a9eb-3242cf2006de",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_utils/utils.py",
+                        "description": "Prints a message in a pretty format using pprint.\n\n##### inPorts:\n- msg (any): The message to be pretty printed.",
+                        "lineNo": [
+                            {
+                                "lineno": 64,
+                                "end_lineno": 75
+                            }
+                        ],
+                        "nextNode": "None"
+                    },
+                    "x": 940.5063768752078,
+                    "y": 143.19148936170214,
+                    "ports": [
+                        {
+                            "id": "30c26a53-4b79-48c4-9c1d-4a2b34acb784",
+                            "type": "default",
+                            "extras": {},
+                            "x": 941.3000357624143,
+                            "y": 169.9875063181855,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "31530582-22ae-4634-a9eb-3242cf2006de",
+                            "links": [
+                                "9f553285-158d-46f4-805b-91c4eee46b06"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "d9e50f79-4556-44ec-8f14-b260e08a775f",
+                            "type": "default",
+                            "extras": {},
+                            "x": 941.3000357624143,
+                            "y": 191.58752345997408,
+                            "name": "parameter-any-msg",
+                            "alignment": "left",
+                            "parentNode": "31530582-22ae-4634-a9eb-3242cf2006de",
+                            "links": [
+                                "6d4b49a3-dfa7-4e79-9d93-146fc8b01ef5"
+                            ],
+                            "in": true,
+                            "label": "msg",
+                            "varName": "msg",
+                            "portType": "",
+                            "dataType": "any"
+                        },
+                        {
+                            "id": "5a14dd16-ae7c-447f-a878-49a57c60b32b",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1045.4626334186644,
+                            "y": 169.9875063181855,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "31530582-22ae-4634-a9eb-3242cf2006de",
+                            "links": [
+                                "59f4af07-9cee-4179-9e33-b4c73176c5bd"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "PrettyPrint",
+                    "color": "rgb(255,153,0)",
+                    "portsInOrder": [
+                        "30c26a53-4b79-48c4-9c1d-4a2b34acb784",
+                        "d9e50f79-4556-44ec-8f14-b260e08a775f"
+                    ],
+                    "portsOutOrder": [
+                        "5a14dd16-ae7c-447f-a878-49a57c60b32b"
+                    ]
+                },
+                "006d9259-e47e-4b2e-b016-c0cc336c9dd3": {
+                    "id": "006d9259-e47e-4b2e-b016-c0cc336c9dd3",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "string",
+                        "attached": false
+                    },
+                    "x": -7.20001220703125,
+                    "y": 148,
+                    "ports": [
+                        {
+                            "id": "590783cc-567c-4b25-ac02-9e2cb6e772c4",
+                            "type": "default",
+                            "extras": {},
+                            "x": 114.4875188803497,
+                            "y": 171.80002320025,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "006d9259-e47e-4b2e-b016-c0cc336c9dd3",
+                            "links": [
+                                "cb443655-772b-40cc-8e73-cc7d50e90f15"
+                            ],
+                            "in": false,
+                            "label": "QuestionAnswerTool",
+                            "varName": "QuestionAnswerTool",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "Literal String",
+                    "color": "lightpink",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "590783cc-567c-4b25-ac02-9e2cb6e772c4"
+                    ]
+                },
+                "14e1ed83-2b9f-401e-adc5-e3347a39c05a": {
+                    "id": "14e1ed83-2b9f-401e-adc5-e3347a39c05a",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "string",
+                        "attached": false
+                    },
+                    "x": -70.20001220703125,
+                    "y": 220,
+                    "ports": [
+                        {
+                            "id": "7bb424f2-adf3-4fb8-9905-96b3c0fde8c6",
+                            "type": "default",
+                            "extras": {},
+                            "x": 121.18749083015022,
+                            "y": 243.80001540852794,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "14e1ed83-2b9f-401e-adc5-e3347a39c05a",
+                            "links": [
+                                "283aef45-3159-4ee3-94bb-fd1ef5f919e6"
+                            ],
+                            "in": false,
+                            "label": "Tool that answers simple questions",
+                            "varName": "Tool that answers simple questions",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "Literal String",
+                    "color": "lightpink",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "7bb424f2-adf3-4fb8-9905-96b3c0fde8c6"
+                    ]
+                },
+                "6c5da7f0-545a-461a-bf1b-ae13b57809f7": {
+                    "id": "6c5da7f0-545a-461a-bf1b-ae13b57809f7",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "string",
+                        "attached": false
+                    },
+                    "x": 538.8638175802027,
+                    "y": 277.72340425531917,
+                    "ports": [
+                        {
+                            "id": "49f3d469-a9ff-49d5-92b6-3632e4723289",
+                            "type": "default",
+                            "extras": {},
+                            "x": 705.1876116018425,
+                            "y": 301.5125216419056,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "6c5da7f0-545a-461a-bf1b-ae13b57809f7",
+                            "links": [
+                                "fc3584ef-c590-40a3-8294-b2388850a03c"
+                            ],
+                            "in": false,
+                            "label": "What is the capital of France?",
+                            "varName": "What is the capital of France?",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "Literal String",
+                    "color": "lightpink",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "49f3d469-a9ff-49d5-92b6-3632e4723289"
+                    ]
+                },
+                "b971a760-d9ba-4c1f-9c85-29d03a6eb183": {
+                    "id": "b971a760-d9ba-4c1f-9c85-29d03a6eb183",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "string",
+                        "attached": false
+                    },
+                    "x": 414.79998779296875,
+                    "y": 40,
+                    "ports": [
+                        {
+                            "id": "43add7fb-af24-4e43-95a7-0dbda05e95f3",
+                            "type": "default",
+                            "extras": {},
+                            "x": 472.36251498448866,
+                            "y": 63.80000242232448,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "b971a760-d9ba-4c1f-9c85-29d03a6eb183",
+                            "links": [
+                                "662c5aec-26cb-4c20-a97d-6b39aa067e75"
+                            ],
+                            "in": false,
+                            "label": "gpt2",
+                            "varName": "gpt2",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "Literal String",
+                    "color": "lightpink",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "43add7fb-af24-4e43-95a7-0dbda05e95f3"
+                    ]
+                },
+                "a1d22eda-8a2e-448c-899a-72e5279c12ad": {
+                    "id": "a1d22eda-8a2e-448c-899a-72e5279c12ad",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "boolean",
+                        "attached": false
+                    },
+                    "x": 354.1790056448111,
+                    "y": 320.4007273122015,
+                    "ports": [
+                        {
+                            "id": "49dd6f87-847c-4aee-b0ec-3bbe7ca4c64d",
+                            "type": "default",
+                            "extras": {},
+                            "x": 423.7624926482187,
+                            "y": 344.1999904750173,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "a1d22eda-8a2e-448c-899a-72e5279c12ad",
+                            "links": [
+                                "25e808d9-e342-4512-b3f7-9d1dfac7570e"
+                            ],
+                            "in": false,
+                            "label": "True",
+                            "varName": "True",
+                            "portType": "",
+                            "dataType": "boolean"
+                        }
+                    ],
+                    "name": "Literal Boolean",
+                    "color": "rgb(255,153,0)",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "49dd6f87-847c-4aee-b0ec-3bbe7ca4c64d"
+                    ]
+                },
+                "d16c9cf6-dad4-4c51-acdf-32efc515f33e": {
+                    "id": "d16c9cf6-dad4-4c51-acdf-32efc515f33e",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "string",
+                        "borderColor": "rgb(0,192,255)"
+                    },
+                    "x": 210.9875097900073,
+                    "y": 241.6773230568823,
+                    "ports": [
+                        {
+                            "id": "8d241b82-768d-4dfd-93a1-b86a6b58c62f",
+                            "type": "default",
+                            "extras": {},
+                            "x": 328.78750407607777,
+                            "y": 265.4750278752833,
+                            "name": "parameter-out-0",
+                            "alignment": "right",
+                            "parentNode": "d16c9cf6-dad4-4c51-acdf-32efc515f33e",
+                            "links": [
+                                "1d6c5163-8f34-4f39-aae2-4661de5c2b95"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "Argument (string): token",
+                    "color": "lightpink",
+                    "portsInOrder": [],
+                    "portsOutOrder": [
+                        "8d241b82-768d-4dfd-93a1-b86a6b58c62f"
+                    ]
+                }
+            }
+        }
+    ]
+}
