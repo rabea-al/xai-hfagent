@@ -10,8 +10,19 @@ hf_token = os.getenv("HF_TOKEN")
 
 @xai_component
 class HfAgentMakeTool(Component):
-    run_tool: BaseComponent
+    """A component to create a custom tool using Hugging Face Transformers.
+
+    ##### inPorts:
+    - name: The name of the custom tool.
+    - description: A description of what the tool does.
+    - input_ref: Reference to the input data required by the tool.
+
+    ##### outPorts:
+    - tool_ref: The created custom tool object.
+    - output_ref: Reference to the output of the tool.
+    """
     
+    run_tool: BaseComponent
     name: InCompArg[str]
     description: InCompArg[str]
     input_ref: InArg[str]
@@ -47,13 +58,21 @@ class HfAgentMakeTool(Component):
 
 @xai_component
 class HfAgentInit(Component):
+    """A component to initialize a Hugging Face language model agent.
+
+    ##### inPorts:
+    - agent_type: The type of language model to use (e.g., "gpt2").
+    - tools: A list of tools to assist the language model.
+    - token: The Hugging Face API token (secret).
+    - from_env: Whether to retrieve the token from the environment variable `HF_TOKEN`.
+    """
+
     agent_type: InCompArg[str]  
     tools: InArg[Tool]
-    token: InArg[secret]  # إدخال التوكن كـ `InArg[secret]`
-    from_env: InArg[bool]  # لتحديد المصدر
+    token: InArg[secret]  
+    from_env: InArg[bool] 
 
     def execute(self, ctx) -> None:
-        # تحديد مصدر `token` حسب قيمة `from_env`
         hf_token = os.getenv("HF_TOKEN") if self.from_env.value else self.token.value
 
         tools = self.tools.value if isinstance(self.tools.value, list) else [self.tools.value]
@@ -62,7 +81,6 @@ class HfAgentInit(Component):
 
         model_name = self.agent_type.value or "gpt2"
         
-        # تحميل tokenizer والنموذج باستخدام `hf_token`
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=hf_token)
         model = AutoModelForCausalLM.from_pretrained(model_name, token=hf_token)
 
@@ -72,10 +90,21 @@ class HfAgentInit(Component):
             pad_token_id=tokenizer.eos_token_id
         )
         
-        ctx['hf_agent'] = llm_engine  # تخزين llm_engine في السياق
+        ctx['hf_agent'] = llm_engine
 
 @xai_component
 class HfAgentRun(Component):
+    """A component to run a prompt through the initialized Hugging Face agent and retrieve a response.
+
+    ##### inPorts:
+    - prompt: The text prompt to pass to the agent.
+    - document: Optional document input for context.
+
+    ##### outPorts:
+    - response_text: The generated response text.
+    - response_file: Path to a saved response file, if applicable.
+    """
+
     prompt: InCompArg[str]
     document: InArg[any]
     response_text: OutArg[str]
@@ -120,6 +149,15 @@ class HfAgentRun(Component):
 
 @xai_component
 class HfReadImage(Component):
+    """A component to read an image file and output it as a PIL image.
+
+    ##### inPorts:
+    - file_path: The path to the image file.
+
+    ##### outPorts:
+    - out_image: The loaded PIL Image object.
+    """
+
     file_path: InCompArg[str]
     out_image: OutArg[Image.Image]
 
