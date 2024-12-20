@@ -83,6 +83,6 @@ xircuits install hfagent
 You can also do it manually by cloning and installing it:
 ```
 # base Xircuits directory
-git clone https://github.com/XpressAI/xai-hfagent xai_components/hfagent
-pip install -r xai_components/hfagent/requirements.txt 
+git clone https://github.com/XpressAI/xai-hfagent xai_components/xai_hfagent
+pip install -r xai_components/xai_hfagent/requirements.txt 
 ```

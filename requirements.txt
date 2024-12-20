@@ -1,3 +1,3 @@
-transformers==4.46.1
+pillow==10.4.0
 torch==2.4.1
-pillow
+transformers==4.46.1
